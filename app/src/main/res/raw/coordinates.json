@@ -1,0 +1,3238 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-07-07T17:48:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/311293364",
+        "indoor": "room",
+        "level": "4",
+        "ref": "438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3550209,
+          52.5456221
+        ]
+      },
+      "id": "node/311293364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/311293366",
+        "indoor": "room",
+        "level": "4",
+        "ref": "437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3551336,
+          52.5456817
+        ]
+      },
+      "id": "node/311293366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312965692",
+        "indoor": "room",
+        "level": "1",
+        "ref": "157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3557149,
+          52.5456104
+        ]
+      },
+      "id": "node/312965692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312965702",
+        "indoor": "room",
+        "level": "1",
+        "ref": "144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3556742,
+          52.5455015
+        ]
+      },
+      "id": "node/312965702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4153696238",
+        "indoor": "room",
+        "level": "0",
+        "ref": "B049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3500432,
+          52.5428805
+        ]
+      },
+      "id": "node/4153696238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4153696242",
+        "indoor": "room",
+        "level": "0",
+        "ref": "B047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3500801,
+          52.5428999
+        ]
+      },
+      "id": "node/4153696242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4153696246",
+        "indoor": "room",
+        "level": "0",
+        "ref": "B045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3501275,
+          52.542922
+        ]
+      },
+      "id": "node/4153696246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4153696255",
+        "indoor": "room",
+        "level": "0",
+        "ref": "B052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3499545,
+          52.5429553
+        ]
+      },
+      "id": "node/4153696255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4153696258",
+        "indoor": "room",
+        "level": "0",
+        "ref": "B050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3500075,
+          52.5429821
+        ]
+      },
+      "id": "node/4153696258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4179020030",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3502871,
+          52.543125
+        ]
+      },
+      "id": "node/4179020030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4179020035",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.350314,
+          52.5431389
+        ]
+      },
+      "id": "node/4179020035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4179045060",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3504451,
+          52.5432069
+        ]
+      },
+      "id": "node/4179045060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4179045062",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3504856,
+          52.5432279
+        ]
+      },
+      "id": "node/4179045062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4179045066",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3505472,
+          52.5432598
+        ]
+      },
+      "id": "node/4179045066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4179045068",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3505884,
+          52.5432812
+        ]
+      },
+      "id": "node/4179045068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4179176745",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3507908,
+          52.5433919
+        ]
+      },
+      "id": "node/4179176745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4179176750",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3508503,
+          52.5434275
+        ]
+      },
+      "id": "node/4179176750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4179176753",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3509156,
+          52.5434585
+        ]
+      },
+      "id": "node/4179176753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4179176754",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.350963,
+          52.5434821
+        ]
+      },
+      "id": "node/4179176754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4179176757",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3509946,
+          52.5434962
+        ]
+      },
+      "id": "node/4179176757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4179176760",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3510271,
+          52.5435098
+        ]
+      },
+      "id": "node/4179176760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193545504",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3505406,
+          52.5431382
+        ]
+      },
+      "id": "node/4193545504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193545505",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3506175,
+          52.5431785
+        ]
+      },
+      "id": "node/4193545505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193545506",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3506539,
+          52.5431974
+        ]
+      },
+      "id": "node/4193545506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193545507",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.350682,
+          52.5432121
+        ]
+      },
+      "id": "node/4193545507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193545508",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B1127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3507721,
+          52.5432591
+        ]
+      },
+      "id": "node/4193545508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193545509",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3508207,
+          52.5432844
+        ]
+      },
+      "id": "node/4193545509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193545510",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3509071,
+          52.5433296
+        ]
+      },
+      "id": "node/4193545510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193545511",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B119-B121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3509567,
+          52.5433555
+        ]
+      },
+      "id": "node/4193545511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193545512",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3510479,
+          52.5434027
+        ]
+      },
+      "id": "node/4193545512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193545514",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3511197,
+          52.5434398
+        ]
+      },
+      "id": "node/4193545514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193545515",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3511655,
+          52.5434638
+        ]
+      },
+      "id": "node/4193545515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193545518",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3512538,
+          52.5435096
+        ]
+      },
+      "id": "node/4193545518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193545523",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3513701,
+          52.5435698
+        ]
+      },
+      "id": "node/4193545523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193545525",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3514183,
+          52.5435951
+        ]
+      },
+      "id": "node/4193545525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193551454",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3501253,
+          52.5429194
+        ]
+      },
+      "id": "node/4193551454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193551455",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3502341,
+          52.5429748
+        ]
+      },
+      "id": "node/4193551455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193551456",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3503741,
+          52.5430463
+        ]
+      },
+      "id": "node/4193551456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193551457",
+        "indoor": "room",
+        "level": "1",
+        "ref": "B139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3504379,
+          52.5430787
+        ]
+      },
+      "id": "node/4193551457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193565447",
+        "indoor": "room",
+        "level": "3",
+        "ref": "B342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3502065,
+          52.5430829
+        ]
+      },
+      "id": "node/4193565447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193565448",
+        "indoor": "room",
+        "level": "3",
+        "ref": "B342a-b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3502806,
+          52.5431221
+        ]
+      },
+      "id": "node/4193565448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193565449",
+        "indoor": "room",
+        "level": "3",
+        "ref": "B340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3503061,
+          52.5431346
+        ]
+      },
+      "id": "node/4193565449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193565451",
+        "indoor": "room",
+        "level": "3",
+        "ref": "B332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3505118,
+          52.5432414
+        ]
+      },
+      "id": "node/4193565451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193565452",
+        "indoor": "room",
+        "level": "3",
+        "ref": "B330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.350572,
+          52.5432726
+        ]
+      },
+      "id": "node/4193565452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193586121",
+        "indoor": "room",
+        "level": "3",
+        "ref": "B322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3508027,
+          52.543393
+        ]
+      },
+      "id": "node/4193586121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193586122",
+        "indoor": "room",
+        "level": "3",
+        "ref": "B307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3510802,
+          52.5434184
+        ]
+      },
+      "id": "node/4193586122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193586123",
+        "indoor": "room",
+        "level": "3",
+        "ref": "B320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3508565,
+          52.543421
+        ]
+      },
+      "id": "node/4193586123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193586124",
+        "indoor": "room",
+        "level": "3",
+        "ref": "B305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3512619,
+          52.5435131
+        ]
+      },
+      "id": "node/4193586124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193586125",
+        "indoor": "room",
+        "level": "3",
+        "ref": "B303a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3512993,
+          52.5435327
+        ]
+      },
+      "id": "node/4193586125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193586126",
+        "indoor": "room",
+        "level": "3",
+        "ref": "B303a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3513354,
+          52.5435515
+        ]
+      },
+      "id": "node/4193586126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193614366",
+        "indoor": "room",
+        "level": "4",
+        "ref": "B454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3499042,
+          52.5429262
+        ]
+      },
+      "id": "node/4193614366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193614367",
+        "indoor": "room",
+        "level": "4",
+        "ref": "B452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3499426,
+          52.5429455
+        ]
+      },
+      "id": "node/4193614367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193614368",
+        "indoor": "room",
+        "level": "4",
+        "ref": "B450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3499878,
+          52.5429683
+        ]
+      },
+      "id": "node/4193614368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193614369",
+        "indoor": "room",
+        "level": "4",
+        "ref": "B450a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3500121,
+          52.5429805
+        ]
+      },
+      "id": "node/4193614369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4194109592",
+        "indoor": "room",
+        "level": "5",
+        "ref": "B552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3499659,
+          52.5429579
+        ]
+      },
+      "id": "node/4194109592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4194109593",
+        "indoor": "room",
+        "level": "5",
+        "ref": "B550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3500043,
+          52.542977
+        ]
+      },
+      "id": "node/4194109593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197563101",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3542649,
+          52.5452085
+        ]
+      },
+      "id": "node/4197563101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197563105",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E16b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3544146,
+          52.545278
+        ]
+      },
+      "id": "node/4197563105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197563106",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E16a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3544989,
+          52.5453233
+        ]
+      },
+      "id": "node/4197563106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197563111",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3546631,
+          52.545402
+        ]
+      },
+      "id": "node/4197563111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197611703",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3547462,
+          52.5454465
+        ]
+      },
+      "id": "node/4197611703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197611706",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E38c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3549042,
+          52.5455279
+        ]
+      },
+      "id": "node/4197611706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197611707",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E38a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3549973,
+          52.5455767
+        ]
+      },
+      "id": "node/4197611707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197611716",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E52/53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3555583,
+          52.5456883
+        ]
+      },
+      "id": "node/4197611716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197611720",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3554899,
+          52.5457463
+        ]
+      },
+      "id": "node/4197611720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197611722",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3554048,
+          52.5458043
+        ]
+      },
+      "id": "node/4197611722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197684699",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3558881,
+          52.5453486
+        ]
+      },
+      "id": "node/4197684699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197684700",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3558417,
+          52.5453803
+        ]
+      },
+      "id": "node/4197684700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197684701",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3557988,
+          52.5454098
+        ]
+      },
+      "id": "node/4197684701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197684703",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3559327,
+          52.5454265
+        ]
+      },
+      "id": "node/4197684703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197684704",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3557539,
+          52.5454404
+        ]
+      },
+      "id": "node/4197684704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197684708",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3557161,
+          52.5454665
+        ]
+      },
+      "id": "node/4197684708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197684710",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3556776,
+          52.5454927
+        ]
+      },
+      "id": "node/4197684710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197684713",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3557849,
+          52.5455228
+        ]
+      },
+      "id": "node/4197684713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197761847",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3553965,
+          52.5450801
+        ]
+      },
+      "id": "node/4197761847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197761849",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3553546,
+          52.5451101
+        ]
+      },
+      "id": "node/4197761849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197761853",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3554642,
+          52.5451364
+        ]
+      },
+      "id": "node/4197761853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197761855",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3553077,
+          52.5451436
+        ]
+      },
+      "id": "node/4197761855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197761866",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3552641,
+          52.5451746
+        ]
+      },
+      "id": "node/4197761866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197761868",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3553931,
+          52.5451935
+        ]
+      },
+      "id": "node/4197761868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197761869",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3552201,
+          52.5452058
+        ]
+      },
+      "id": "node/4197761869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197761870",
+        "indoor": "room",
+        "level": "0",
+        "ref": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3551805,
+          52.545234
+        ]
+      },
+      "id": "node/4197761870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197761871",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3552791,
+          52.5452669
+        ]
+      },
+      "id": "node/4197761871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197790018",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3551779,
+          52.5453343
+        ]
+      },
+      "id": "node/4197790018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197790020",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3552604,
+          52.5453565
+        ]
+      },
+      "id": "node/4197790020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197790021",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3551358,
+          52.5453661
+        ]
+      },
+      "id": "node/4197790021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197790022",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3552294,
+          52.5453779
+        ]
+      },
+      "id": "node/4197790022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197790024",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3551932,
+          52.5454011
+        ]
+      },
+      "id": "node/4197790024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197815412",
+        "indoor": "room",
+        "level": "1",
+        "ref": "149a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3558835,
+          52.5453551
+        ]
+      },
+      "id": "node/4197815412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197815413",
+        "indoor": "room",
+        "level": "1",
+        "ref": "149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3558461,
+          52.5453811
+        ]
+      },
+      "id": "node/4197815413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197815414",
+        "indoor": "room",
+        "level": "1",
+        "ref": "148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3558108,
+          52.5454061
+        ]
+      },
+      "id": "node/4197815414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197815415",
+        "indoor": "room",
+        "level": "1",
+        "ref": "150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3559695,
+          52.5454106
+        ]
+      },
+      "id": "node/4197815415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197815416",
+        "indoor": "room",
+        "level": "1",
+        "ref": "D147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3557751,
+          52.545431
+        ]
+      },
+      "id": "node/4197815416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197815417",
+        "indoor": "room",
+        "level": "1",
+        "ref": "D151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3559159,
+          52.5454509
+        ]
+      },
+      "id": "node/4197815417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197815418",
+        "indoor": "room",
+        "level": "1",
+        "ref": "146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3557413,
+          52.5454548
+        ]
+      },
+      "id": "node/4197815418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197815420",
+        "indoor": "room",
+        "level": "1",
+        "ref": "145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3557098,
+          52.5454766
+        ]
+      },
+      "id": "node/4197815420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197815433",
+        "indoor": "room",
+        "level": "1",
+        "ref": "165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3556275,
+          52.5456658
+        ]
+      },
+      "id": "node/4197815433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197815434",
+        "indoor": "room",
+        "level": "1",
+        "ref": "161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3558759,
+          52.5456897
+        ]
+      },
+      "id": "node/4197815434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197815435",
+        "indoor": "room",
+        "level": "1",
+        "ref": "164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3557133,
+          52.5457082
+        ]
+      },
+      "id": "node/4197815435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197815436",
+        "indoor": "room",
+        "level": "1",
+        "ref": "162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3559275,
+          52.5457174
+        ]
+      },
+      "id": "node/4197815436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197815438",
+        "indoor": "room",
+        "level": "1",
+        "ref": "163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3558126,
+          52.5457589
+        ]
+      },
+      "id": "node/4197815438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197833732",
+        "indoor": "room",
+        "level": "1",
+        "ref": "139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3548966,
+          52.5455255
+        ]
+      },
+      "id": "node/4197833732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197833734",
+        "indoor": "room",
+        "level": "1",
+        "ref": "139a/b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3550064,
+          52.5455749
+        ]
+      },
+      "id": "node/4197833734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4197833740",
+        "indoor": "room",
+        "level": "1",
+        "ref": "166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3554914,
+          52.5457409
+        ]
+      },
+      "id": "node/4197833740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4210327851",
+        "indoor": "room",
+        "level": "3",
+        "ref": "331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3549766,
+          52.5454951
+        ]
+      },
+      "id": "node/4210327851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4210327852",
+        "indoor": "room",
+        "level": "3",
+        "ref": "332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3550616,
+          52.5455393
+        ]
+      },
+      "id": "node/4210327852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4210327853",
+        "indoor": "room",
+        "level": "3",
+        "ref": "333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3551627,
+          52.5455916
+        ]
+      },
+      "id": "node/4210327853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4210327854",
+        "indoor": "room",
+        "level": "3",
+        "ref": "334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3552001,
+          52.5456116
+        ]
+      },
+      "id": "node/4210327854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4210327855",
+        "indoor": "room",
+        "level": "3",
+        "ref": "335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3552397,
+          52.5456322
+        ]
+      },
+      "id": "node/4210327855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4217521293",
+        "indoor": "room",
+        "level": "1",
+        "ref": "135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.355267,
+          52.5454038
+        ]
+      },
+      "id": "node/4217521293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4217521299",
+        "indoor": "room",
+        "level": "1",
+        "ref": "135A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3554074,
+          52.5454699
+        ]
+      },
+      "id": "node/4217521299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4217521321",
+        "indoor": "room",
+        "level": "1",
+        "ref": "167a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3553984,
+          52.5458139
+        ]
+      },
+      "id": "node/4217521321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4217598144",
+        "indoor": "room",
+        "level": "1",
+        "ref": "116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3548019,
+          52.5451552
+        ]
+      },
+      "id": "node/4217598144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422371378",
+        "indoor": "room",
+        "level": "4",
+        "ref": "410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3544448,
+          52.5452143
+        ]
+      },
+      "id": "node/4422371378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422371379",
+        "indoor": "room",
+        "level": "4",
+        "ref": "411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3544849,
+          52.545235
+        ]
+      },
+      "id": "node/4422371379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422371380",
+        "indoor": "room",
+        "level": "4",
+        "ref": "412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3545392,
+          52.5452627
+        ]
+      },
+      "id": "node/4422371380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422371385",
+        "indoor": "room",
+        "level": "4",
+        "ref": "413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3545996,
+          52.5452945
+        ]
+      },
+      "id": "node/4422371385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422371890",
+        "indoor": "room",
+        "level": "4",
+        "ref": "414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3546747,
+          52.5453349
+        ]
+      },
+      "id": "node/4422371890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422371896",
+        "indoor": "room",
+        "level": "4",
+        "ref": "415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3547391,
+          52.5453673
+        ]
+      },
+      "id": "node/4422371896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422627305",
+        "indoor": "room",
+        "level": "4",
+        "ref": "430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.354963,
+          52.5454819
+        ]
+      },
+      "id": "node/4422627305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422627306",
+        "indoor": "room",
+        "level": "4",
+        "ref": "431"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35501,
+          52.5455062
+        ]
+      },
+      "id": "node/4422627306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422627309",
+        "indoor": "room",
+        "level": "4",
+        "ref": "432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3550578,
+          52.5455311
+        ]
+      },
+      "id": "node/4422627309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422627314",
+        "indoor": "room",
+        "level": "4",
+        "ref": "433"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3551076,
+          52.5455575
+        ]
+      },
+      "id": "node/4422627314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422627319",
+        "indoor": "room",
+        "level": "4",
+        "ref": "434"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3551592,
+          52.5455845
+        ]
+      },
+      "id": "node/4422627319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422627322",
+        "indoor": "room",
+        "level": "4",
+        "ref": "435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3552026,
+          52.5456071
+        ]
+      },
+      "id": "node/4422627322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422627324",
+        "indoor": "room",
+        "level": "4",
+        "ref": "436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3552435,
+          52.5456287
+        ]
+      },
+      "id": "node/4422627324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449032818",
+        "indoor": "room",
+        "level": "2",
+        "ref": "225a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3547131,
+          52.5454628
+        ]
+      },
+      "id": "node/4449032818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449032820",
+        "indoor": "room",
+        "level": "2",
+        "ref": "225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3547812,
+          52.5454973
+        ]
+      },
+      "id": "node/4449032820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449032821",
+        "indoor": "room",
+        "level": "2",
+        "ref": "224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3548594,
+          52.5455386
+        ]
+      },
+      "id": "node/4449032821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449032822",
+        "indoor": "room",
+        "level": "2",
+        "ref": "223a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3549039,
+          52.5455616
+        ]
+      },
+      "id": "node/4449032822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449032823",
+        "indoor": "room",
+        "level": "2",
+        "ref": "223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3549458,
+          52.5455834
+        ]
+      },
+      "id": "node/4449032823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449055422",
+        "indoor": "room",
+        "level": "2",
+        "ref": "210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3545464,
+          52.5453758
+        ]
+      },
+      "id": "node/4449055422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449055423",
+        "indoor": "room",
+        "level": "2",
+        "ref": "209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3546327,
+          52.5454215
+        ]
+      },
+      "id": "node/4449055423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455740293",
+        "indoor": "room",
+        "level": "2",
+        "ref": "209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3513865,
+          52.5435783
+        ]
+      },
+      "id": "node/4455740293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455740294",
+        "indoor": "room",
+        "level": "2",
+        "ref": "207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.351428,
+          52.5436
+        ]
+      },
+      "id": "node/4455740294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455740295",
+        "indoor": "room",
+        "level": "2",
+        "ref": "205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3514831,
+          52.5436289
+        ]
+      },
+      "id": "node/4455740295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455740297",
+        "indoor": "room",
+        "level": "2",
+        "ref": "203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3515273,
+          52.5436519
+        ]
+      },
+      "id": "node/4455740297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755659",
+        "indoor": "room",
+        "level": "2",
+        "ref": "244"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35022,
+          52.5430904
+        ]
+      },
+      "id": "node/4455755659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755660",
+        "indoor": "room",
+        "level": "2",
+        "ref": "242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3502782,
+          52.543121
+        ]
+      },
+      "id": "node/4455755660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755661",
+        "indoor": "room",
+        "level": "2",
+        "ref": "227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3505371,
+          52.5431374
+        ]
+      },
+      "id": "node/4455755661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755664",
+        "indoor": "room",
+        "level": "2",
+        "ref": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3503478,
+          52.5431567
+        ]
+      },
+      "id": "node/4455755664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755665",
+        "indoor": "room",
+        "level": "2",
+        "ref": "225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3506258,
+          52.5431821
+        ]
+      },
+      "id": "node/4455755665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755666",
+        "indoor": "room",
+        "level": "2",
+        "ref": "234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3504245,
+          52.5431964
+        ]
+      },
+      "id": "node/4455755666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755667",
+        "indoor": "room",
+        "level": "2",
+        "ref": "232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3504689,
+          52.5432193
+        ]
+      },
+      "id": "node/4455755667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755668",
+        "indoor": "room",
+        "level": "2",
+        "ref": "230a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.350514,
+          52.5432426
+        ]
+      },
+      "id": "node/4455755668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755669",
+        "indoor": "room",
+        "level": "2",
+        "ref": "234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3505604,
+          52.5432667
+        ]
+      },
+      "id": "node/4455755669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755672",
+        "indoor": "room",
+        "level": "2",
+        "ref": "218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.350926,
+          52.5434572
+        ]
+      },
+      "id": "node/4455755672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755673",
+        "indoor": "room",
+        "level": "2",
+        "ref": "216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3509711,
+          52.5434814
+        ]
+      },
+      "id": "node/4455755673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755674",
+        "indoor": "room",
+        "level": "2",
+        "ref": "214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3510156,
+          52.5435048
+        ]
+      },
+      "id": "node/4455755674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755675",
+        "indoor": "room",
+        "level": "2",
+        "ref": "215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3512667,
+          52.5435162
+        ]
+      },
+      "id": "node/4455755675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755676",
+        "indoor": "room",
+        "level": "2",
+        "ref": "212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3510657,
+          52.5435306
+        ]
+      },
+      "id": "node/4455755676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455755677",
+        "indoor": "room",
+        "level": "2",
+        "ref": "212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3513279,
+          52.5435486
+        ]
+      },
+      "id": "node/4455755677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455789717",
+        "indoor": "room",
+        "level": "2",
+        "ref": "257a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.350031,
+          52.5428747
+        ]
+      },
+      "id": "node/4455789717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455789718",
+        "indoor": "room",
+        "level": "2",
+        "ref": "257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3500775,
+          52.542898
+        ]
+      },
+      "id": "node/4455789718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455789719",
+        "indoor": "room",
+        "level": "2",
+        "ref": "255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3501165,
+          52.5429196
+        ]
+      },
+      "id": "node/4455789719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455789721",
+        "indoor": "room",
+        "level": "2",
+        "ref": "253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3501645,
+          52.5429444
+        ]
+      },
+      "id": "node/4455789721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455789722",
+        "indoor": "room",
+        "level": "2",
+        "ref": "251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3502118,
+          52.5429688
+        ]
+      },
+      "id": "node/4455789722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455789724",
+        "indoor": "room",
+        "level": "2",
+        "ref": "249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3502475,
+          52.5429863
+        ]
+      },
+      "id": "node/4455789724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455789725",
+        "indoor": "room",
+        "level": "2",
+        "ref": "247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3502791,
+          52.5430026
+        ]
+      },
+      "id": "node/4455789725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455789726",
+        "indoor": "room",
+        "level": "2",
+        "ref": "245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3503184,
+          52.5430233
+        ]
+      },
+      "id": "node/4455789726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455789727",
+        "indoor": "room",
+        "level": "2",
+        "ref": "243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3503502,
+          52.5430389
+        ]
+      },
+      "id": "node/4455789727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455789728",
+        "indoor": "room",
+        "level": "2",
+        "ref": "241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3503825,
+          52.5430563
+        ]
+      },
+      "id": "node/4455789728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845452",
+        "indoor": "room",
+        "level": "1",
+        "ref": "112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3549067,
+          52.544838
+        ]
+      },
+      "id": "node/4455845452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845453",
+        "indoor": "room",
+        "level": "1",
+        "ref": "111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3548698,
+          52.5448659
+        ]
+      },
+      "id": "node/4455845453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845455",
+        "indoor": "room",
+        "level": "1",
+        "ref": "110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3548268,
+          52.5448956
+        ]
+      },
+      "id": "node/4455845455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845456",
+        "indoor": "room",
+        "level": "1",
+        "ref": "109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3547842,
+          52.544926
+        ]
+      },
+      "id": "node/4455845456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845457",
+        "indoor": "room",
+        "level": "1",
+        "ref": "113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3550398,
+          52.544928
+        ]
+      },
+      "id": "node/4455845457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845459",
+        "indoor": "room",
+        "level": "1",
+        "ref": "108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3547477,
+          52.5449527
+        ]
+      },
+      "id": "node/4455845459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845461",
+        "indoor": "room",
+        "level": "1",
+        "ref": "107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3547157,
+          52.5449741
+        ]
+      },
+      "id": "node/4455845461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845462",
+        "indoor": "room",
+        "level": "1",
+        "ref": "114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3549734,
+          52.5449741
+        ]
+      },
+      "id": "node/4455845462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845463",
+        "indoor": "room",
+        "level": "1",
+        "ref": "115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3548738,
+          52.5450424
+        ]
+      },
+      "id": "node/4455845463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845465",
+        "indoor": "room",
+        "level": "1",
+        "ref": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3553831,
+          52.5450984
+        ]
+      },
+      "id": "node/4455845465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845467",
+        "indoor": "room",
+        "level": "1",
+        "ref": "129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3553385,
+          52.5451299
+        ]
+      },
+      "id": "node/4455845467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845468",
+        "indoor": "room",
+        "level": "1",
+        "ref": "128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3552928,
+          52.5451627
+        ]
+      },
+      "id": "node/4455845468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845469",
+        "indoor": "room",
+        "level": "1",
+        "ref": "131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3555233,
+          52.5451771
+        ]
+      },
+      "id": "node/4455845469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845470",
+        "indoor": "room",
+        "level": "1",
+        "ref": "127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3552506,
+          52.5451925
+        ]
+      },
+      "id": "node/4455845470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845471",
+        "indoor": "room",
+        "level": "3",
+        "ref": "310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3544371,
+          52.5452104
+        ]
+      },
+      "id": "node/4455845471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845472",
+        "indoor": "room",
+        "level": "1",
+        "ref": "126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3552096,
+          52.5452217
+        ]
+      },
+      "id": "node/4455845472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845473",
+        "indoor": "room",
+        "level": "1",
+        "ref": "132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3554471,
+          52.5452302
+        ]
+      },
+      "id": "node/4455845473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845474",
+        "indoor": "room",
+        "level": "1",
+        "ref": "125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3551799,
+          52.5452427
+        ]
+      },
+      "id": "node/4455845474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845475",
+        "indoor": "room",
+        "level": "3",
+        "ref": "311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.354506,
+          52.5452458
+        ]
+      },
+      "id": "node/4455845475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845476",
+        "indoor": "room",
+        "level": "3",
+        "ref": "312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3545601,
+          52.5452742
+        ]
+      },
+      "id": "node/4455845476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845477",
+        "indoor": "room",
+        "level": "1",
+        "ref": "133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3553635,
+          52.545288
+        ]
+      },
+      "id": "node/4455845477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845478",
+        "indoor": "room",
+        "level": "3",
+        "ref": "313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3546307,
+          52.5453115
+        ]
+      },
+      "id": "node/4455845478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845479",
+        "indoor": "room",
+        "level": "3",
+        "ref": "314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3546943,
+          52.5453445
+        ]
+      },
+      "id": "node/4455845479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845480",
+        "indoor": "room",
+        "level": "3",
+        "ref": "315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3547361,
+          52.5453664
+        ]
+      },
+      "id": "node/4455845480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845482",
+        "indoor": "room",
+        "level": "3",
+        "ref": "329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3551305,
+          52.5454007
+        ]
+      },
+      "id": "node/4455845482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845484",
+        "indoor": "room",
+        "level": "3",
+        "ref": "329a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3550864,
+          52.5454301
+        ]
+      },
+      "id": "node/4455845484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845486",
+        "indoor": "room",
+        "level": "3",
+        "ref": "330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.354933,
+          52.5454681
+        ]
+      },
+      "id": "node/4455845486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455845488",
+        "indoor": "room",
+        "level": "0",
+        "ref": "E51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3557062,
+          52.5455832
+        ]
+      },
+      "id": "node/4455845488"
+    }
+  ]
+}

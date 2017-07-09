@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Beuth Map</string>
+    <string name="title_activity_maps">Beuth Map</string>
+    <string name="spinner_title">Wählen Sie einen Raum</string>
+    <string-array name="room_array">
+        <item>""</item>
+        <item>21</item>
+        <item>107</item>
+        <item>108</item>
+        <item>109</item>
+        <item>110</item>
+        <item>111</item>
+    </string-array>
+
+
+</resources>
