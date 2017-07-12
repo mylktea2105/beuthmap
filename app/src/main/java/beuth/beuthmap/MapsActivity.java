@@ -18,6 +18,7 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.maps.android.geojson.GeoJsonLayer;
+import com.google.maps.android.geojson.GeoJsonPolygonStyle;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -66,6 +67,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 assert layer0 != null;
                 layer0.addLayerToMap();
 
+
             }
         });
 
@@ -89,9 +91,21 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             }
         });
 
-    }
+        //Spinner
 
-    ;
+        Spinner spinner = (Spinner) findViewById(R.id.spinner);
+
+        // Create an ArrayAdapter using the string array and a default spinner layout
+        ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,
+                R.array.room_array, android.R.layout.simple_spinner_item);
+        // Specify the layout to use when the list of choices appears
+        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+        // Apply the adapter to the spinner
+        spinner.setAdapter(adapter);
+
+        spinner.setOnItemSelectedListener(this);
+
+    }
 
 
     /**
@@ -124,19 +138,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         }
         mMap.setMyLocationEnabled(true);
 
-        //Spinner
 
-        Spinner spinner = (Spinner) findViewById(R.id.spinner);
-
-        // Create an ArrayAdapter using the string array and a default spinner layout
-        ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,
-                R.array.room_array, android.R.layout.simple_spinner_item);
-        // Specify the layout to use when the list of choices appears
-        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        // Apply the adapter to the spinner
-        spinner.setAdapter(adapter);
-
-        spinner.setOnItemSelectedListener(this);
     }
 
 
@@ -170,15 +172,15 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             JSONObject jsonObj = new JSONObject(file);
             JSONArray features = jsonObj.getJSONArray("features");
 
-            if (marker !=null) {
+            if (marker != null) {
                 marker.remove();
             }
 
             mMap.clear();
 
-            for(int i=0; i<features.length(); i++){
-                
-                if(features.getJSONObject(i).getJSONObject("properties").getString("ref").equals(parent.getSelectedItem().toString())){
+            for (int i = 0; i < features.length(); i++) {
+
+                if (features.getJSONObject(i).getJSONObject("properties").getString("ref").equals(parent.getSelectedItem().toString())) {
 
                     JSONArray coordinates = features.getJSONObject(i).getJSONObject("geometry").getJSONArray("coordinates");
                     String latitude = coordinates.getString(0);
@@ -190,7 +192,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                     LatLng raum = new LatLng(lat, lng);
 
                     marker = mMap.addMarker(new MarkerOptions()
-                                    .position(new LatLng(lat, lng))
+                            .position(new LatLng(lat, lng))
                     );
                     mMap.moveCamera(CameraUpdateFactory.newLatLng(raum));
                     mMap.animateCamera(CameraUpdateFactory.zoomTo(16));
@@ -211,4 +213,44 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     }
 
+    private GeoJsonLayer layer1;
+    private GeoJsonLayer layer0;
+
+    public void onClick0(View view) {
+        if (this.layer0 == null) {
+            try {
+                this.layer0 = new GeoJsonLayer(mMap, R.raw.level0, getApplicationContext());
+                GeoJsonPolygonStyle style = layer0.getDefaultPolygonStyle();
+                style.setStrokeColor(0xff888888);
+                style.setStrokeWidth(5);
+
+            } catch (IOException | JSONException e) {
+                e.printStackTrace();
+            }
+
+        }
+        this.layer0.addLayerToMap();
+        if (this.layer1 != null) { this.layer1.removeLayerFromMap(); }
+    }
+
+
+    public void onClick1(View view) {
+        if (this.layer1 == null) {
+            try {
+                this.layer1 = new GeoJsonLayer(mMap, R.raw.level1, getApplicationContext());
+                    GeoJsonPolygonStyle style = layer1.getDefaultPolygonStyle();
+                    style.setStrokeColor(0xff888888);
+                    style.setStrokeWidth(5);
+
+            } catch (IOException | JSONException e) {
+                e.printStackTrace();
+            }
+
+        }
+        this.layer1.addLayerToMap();
+        if (this.layer0 != null) { this.layer0.removeLayerFromMap(); }
+    }
 }
+
+
+
